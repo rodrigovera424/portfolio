@@ -15,7 +15,7 @@ const Testimonials = () => {
   const testimonials = [
     {
       id: 1,
-      link: 'https://www.instagram.com/karolaguido/',
+      link: 'https://www.linkedin.com/in/carolina-guidobono-41161223b/',
       name: 'Carolina G',
       role: 'Thank you',
       test: 'very satisfied with the work',
