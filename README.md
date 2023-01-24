@@ -1,7 +1,7 @@
 # Personal-Portfolio
 > This is personal portfolio website.
 
-![Portfolio](...)
+![Portfolio](https://raw.github.com/rodrigovera424/portfolio/main/src/assets/demo.jpg)
 
 ## Built With
 
@@ -13,7 +13,7 @@
 
 - [Live Demo](...)
 
-https://raw.githubusercontent.com/rodrigovera424/portfolio/main/src/assets/demo.jpg
+
 
 
 # Getting Started
