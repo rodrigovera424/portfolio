@@ -1,8 +1,8 @@
 import React from 'react';
-import IMG1 from '../../assets/bookstore.png';
-import IMG2 from '../../assets/todo.png';
+import IMG1 from '../../assets/3dprint.jpg';
+import IMG2 from '../../assets/tattoo.jpg';
 
-import IMG4 from '../../assets/fake.png';
+import IMG4 from '../../assets/nutricion.jpg';
 
 
 import './portfolio.css';
@@ -14,8 +14,8 @@ const Portfolio = () => {
       title: 'CeroMprint',
       img: IMG1,
       description:
-        '',
-      technologies: '',
+        '3d printing shop',
+      technologies: 'JavaScript,React,mongodb',
       link: '',
       github: '',
     },
@@ -24,17 +24,17 @@ const Portfolio = () => {
       title: 'Carol',
       img: IMG4,
       description:
-        '',
-      technologies: '',
+        'nutrition blog',
+      technologies: 'JavaScript,React,Css,...',
       link: '',
       github: '',
     },
     {
       id: 3,
-      title: 'APP',
+      title: 'cuber tattoo',
       img: IMG2,
-      description: '',
-      technologies: 'JavaScript | Webpack',
+      description: 'tattoo studio',
+      technologies: 'JavaScript ,React,Css,...',
       link: '',
       github: '',
     },

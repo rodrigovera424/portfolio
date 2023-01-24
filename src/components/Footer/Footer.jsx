@@ -22,7 +22,8 @@ const Footer = () => {
 <a href='https://www.instagram.com/ceromprint/' target="blank" > <BsInstagram/> </a>
       </div>
       <div className="footer__copyright">
-        <small>&copy; ET 2022. All rights reserved.</small>
+        <small>&copy; ET 2022. All rights reserved.
+the images were created by AI</small>
       </div>
     </footer>
   )
